@@ -1,0 +1,8 @@
+{
+  "name": "Author Trisha Paytas",
+  "description": "Explore the books, upcoming memoir 'Crying on the Kitchen Floor', and appearances by author and creator Trisha Paytas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
